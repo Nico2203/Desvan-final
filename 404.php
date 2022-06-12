@@ -29,11 +29,7 @@
     <div class="container-404">
         <h1>Error 404</h1>
         <p>Esta pagina no se encuentra dispinible en estos momentos. Disculpa las molestias.</p>
-        <a href="index.html"class="boton>
-        pagina principal
-    </a>
-
+        <a href="index.html" class="boton">Pagina Principal</a>
     </div>
-
 </body>
 </html>
