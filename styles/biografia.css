@@ -21,3 +21,7 @@ a{
     color:black
 
 }
+#navbarNav {
+    justify-content: flex-end;
+    font-size: 25px;
+}

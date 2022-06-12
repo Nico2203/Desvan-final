@@ -57,3 +57,7 @@ a{
 .redes-sociales a i .youtube:hover{
     background: var(--youtube);
 }
+#navbarNav {
+    justify-content: flex-end;
+    font-size: 25px;
+}
