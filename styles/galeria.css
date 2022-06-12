@@ -57,9 +57,12 @@ a{
 .redes-sociales a i .youtube:hover{
     background: var(--youtube);
 }
-
 .galeria_imagenes {
     max-width: 100%; 
     display: block; 
     height: auto;
+}
+#navbarNav {
+    justify-content: flex-end;
+    font-size: 25px;
 }
