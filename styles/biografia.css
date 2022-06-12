@@ -1,0 +1,23 @@
+.header{
+    background-color: rgb(107, 62, 2)}
+body{
+    background-color:rgb(75, 71, 52)
+}
+nav{
+    color: black;
+
+}
+.footer{
+    background-color: rgb(107, 62, 2)
+}
+.in-flex{
+    color: rgb(253, 253, 253);
+}
+a{
+    margin: 20px  20px 20px;
+    height: fit-content;
+    text-align: center;
+    flex-direction:column;
+    color:black
+
+}
